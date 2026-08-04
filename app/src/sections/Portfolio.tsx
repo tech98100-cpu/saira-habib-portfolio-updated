@@ -69,7 +69,7 @@ const featuredProjects = [
 const projects = [
   {
     slug: 'saira-ai-prompt-studio',
-    title: 'PromptVault',
+    title: 'Saira AI Prompt Studio',
     description: 'A premium, animated collection of expertly crafted AI prompts for developers, designers and creators — organized for fast browsing and reuse.',
     tech: ['React', 'Framer Motion'],
     live: 'https://saira-ai-prompt-studio-1.vercel.app/',
@@ -90,7 +90,7 @@ const projects = [
   },
   {
     slug: 'saira-developer-hub',
-    title: 'DevToolsHub',
+    title: 'Saira Developer Hub',
     description: 'A curated platform bringing developer tools, resources and references together in one clean, modern interface.',
     tech: ['React', 'UI/UX'],
     live: 'https://saira-developer-hub.vercel.app/',
@@ -216,7 +216,7 @@ const projects = [
   },
   {
     slug: 'saira-ai',
-    title: 'NexusAI',
+    title: 'Saira AI',
     description: 'A bold AI-startup landing page concept — hero-led layout built to pitch an AI product at a glance.',
     tech: ['React', 'Landing Page'],
     live: 'https://saira-ai-react.vercel.app/',
