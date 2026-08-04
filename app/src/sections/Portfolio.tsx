@@ -179,13 +179,7 @@ const projects = [
     tech: ['React', 'Drag & Drop'],
     live: 'https://taskflow-sigma-snowy.vercel.app/',
   },
-  {
-    slug: 'inventory-management',
-    title: 'Inventory Management System',
-    description: "Small shops tracking stock in spreadsheets miss low-stock items until it's too late. A CRUD inventory app with category organization and low-stock flags.",
-    tech: ['React', 'Express', 'MongoDB'],
-    live: 'https://inventory-management-system-delta-lime.vercel.app/',
-  },
+  
   {
     slug: 'cafe-restaurant-pos',
     title: 'Cafe & Restaurant POS',
