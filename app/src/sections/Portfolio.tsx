@@ -69,7 +69,7 @@ const featuredProjects = [
 const projects = [
   {
     slug: 'saira-ai-prompt-studio',
-    title: 'Saira AI Prompt Studio',
+    title: 'PromptVault',
     description: 'A premium, animated collection of expertly crafted AI prompts for developers, designers and creators — organized for fast browsing and reuse.',
     tech: ['React', 'Framer Motion'],
     live: 'https://saira-ai-prompt-studio-1.vercel.app/',
@@ -90,7 +90,7 @@ const projects = [
   },
   {
     slug: 'saira-developer-hub',
-    title: 'Saira Developer Hub',
+    title: 'DevToolsHub',
     description: 'A curated platform bringing developer tools, resources and references together in one clean, modern interface.',
     tech: ['React', 'UI/UX'],
     live: 'https://saira-developer-hub.vercel.app/',
@@ -179,7 +179,13 @@ const projects = [
     tech: ['React', 'Drag & Drop'],
     live: 'https://taskflow-sigma-snowy.vercel.app/',
   },
-  
+  {
+    slug: 'inventory-management',
+    title: 'Inventory Management System',
+    description: "Small shops tracking stock in spreadsheets miss low-stock items until it's too late. A CRUD inventory app with category organization and low-stock flags.",
+    tech: ['React', 'Express', 'MongoDB'],
+    live: 'https://inventory-management-system-delta-lime.vercel.app/',
+  },
   {
     slug: 'cafe-restaurant-pos',
     title: 'Cafe & Restaurant POS',
@@ -210,7 +216,7 @@ const projects = [
   },
   {
     slug: 'saira-ai',
-    title: 'Saira AI',
+    title: 'NexusAI',
     description: 'A bold AI-startup landing page concept — hero-led layout built to pitch an AI product at a glance.',
     tech: ['React', 'Landing Page'],
     live: 'https://saira-ai-react.vercel.app/',
